@@ -1,5 +1,5 @@
 # Thông tin về Tập Dữ liệu Cho Vay
-*data_source: https://www.kaggle.com/datasets/prakashraushan/loan-dataset*
+*data_source: https://www.kaggle.com/datasets/prakashraushan/loan-dataset*.
 Tập dữ liệu bao gồm các cột sau:
 
 1. **customer_id**: Mã định danh duy nhất cho mỗi khách hàng.
