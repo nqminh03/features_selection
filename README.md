@@ -1,5 +1,5 @@
 # Thông tin về Tập Dữ liệu Cho Vay
-*data_source: https://www.kaggle.com/datasets/prakashraushan/loan-dataset*.
+*data_source: https://www.kaggle.com/datasets/prakashraushan/loan-dataset*  
 Tập dữ liệu bao gồm các cột sau:
 
 1. **customer_id**: Mã định danh duy nhất cho mỗi khách hàng.
@@ -17,5 +17,5 @@ Tập dữ liệu bao gồm các cột sau:
 13. **Current_loan_status**: Tình trạng hiện tại của khoản vay (DEFAULT, NO DEFAULT).
 
 **Mô tả:**
-Bài làm về khả năng chọn ra trường dữ liệu quan trọng của dữ liệu có khối lượng tầm trung
+Bài làm về khả năng chọn ra trường dữ liệu quan trọng của dữ liệu có khối lượng tầm trung  
 của hai phương pháp features_selected là phương pháp lọc và phương pháp nhúng.
